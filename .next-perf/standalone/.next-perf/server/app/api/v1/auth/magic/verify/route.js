@@ -1,0 +1,12 @@
+var R=require("../../../../../../chunks/[turbopack]_runtime.js")("server/app/api/v1/auth/magic/verify/route.js")
+R.c("server/chunks/[root-of-the-server]__1u414gb._.js")
+R.c("server/chunks/[root-of-the-server]__0vlmxs0._.js")
+R.c("server/chunks/[root-of-the-server]__0j_377f._.js")
+R.c("server/chunks/[root-of-the-server]__0-qlswp._.js")
+R.c("server/chunks/[root-of-the-server]__15bjnu5._.js")
+R.c("server/chunks/_0dtd-y4._.js")
+R.c("server/chunks/[root-of-the-server]__0_be45p._.js")
+R.c("server/chunks/[root-of-the-server]__1x0npzu._.js")
+R.c("server/chunks/_next-internal_server_app_api_v1_auth_magic_verify_route_actions_05qovta.js")
+R.m(82228)
+module.exports=R.m(82228).exports

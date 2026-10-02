@@ -1,0 +1,1975 @@
+{
+  "source": "Photos Pexels — https://www.pexels.com/license/ (usage libre, commercial compris, attribution non requise).",
+  "content": {
+    "hero": {
+      "id": 17371465,
+      "alt": "A comfortable bed in a bedroom with soft morning sunlight illuminating the room.",
+      "author": "Chris Alo",
+      "url": "https://images.pexels.com/photos/17371465/pexels-photo-17371465.jpeg",
+      "w": 2400,
+      "h": 1050
+    },
+    "summer": {
+      "id": 38412873,
+      "alt": "Woman in a white linen shirt seated on a wooden sun lounger by a resort poolside in Cancún, Mexico.",
+      "author": "Margo Evardson",
+      "url": "https://images.pexels.com/photos/38412873/pexels-photo-38412873.jpeg",
+      "w": 1500,
+      "h": 1000
+    },
+    "linen": {
+      "id": 6461398,
+      "alt": "A vibrant display of linen clothes on hangers in a cozy boutique setting.",
+      "author": "Pavel Danilyuk",
+      "url": "https://images.pexels.com/photos/6461398/pexels-photo-6461398.jpeg",
+      "w": 1500,
+      "h": 1000
+    }
+  },
+  "products": {
+    "Drap housse percale de coton": {
+      "Blanc": [
+        {
+          "id": 5706888,
+          "alt": "Close-up of soft, white bedding fabric draped naturally in a minimalist style.",
+          "author": "Andrei C",
+          "url": "https://images.pexels.com/photos/5706888/pexels-photo-5706888.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 8793479,
+          "alt": "A detailed view of crumpled white cotton bedding, showcasing texture and fabric quality.",
+          "author": "Anna Maxelante",
+          "url": "https://images.pexels.com/photos/5046179/pexels-photo-5046179.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sable": [
+        {
+          "id": 30618181,
+          "alt": "Soft and textured beige linen bedding fabric forming natural folds, perfect for interior decor themes.",
+          "author": "Kate L",
+          "url": "https://images.pexels.com/photos/30618181/pexels-photo-30618181.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 19966787,
+          "alt": "Contemporary bedroom with neutral tones and minimalist decor for a cozy atmosphere.",
+          "author": "Alex Tyson",
+          "url": "https://images.pexels.com/photos/19966787/pexels-photo-19966787.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sauge": [
+        {
+          "id": 34123251,
+          "alt": "Warm and inviting bedroom scene showcasing green bedding and soft pillows.",
+          "author": "Inti Tupac Liberman",
+          "url": "https://images.pexels.com/photos/34123251/pexels-photo-34123251.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 20801059,
+          "alt": "A comforting scene of an unmade bed with green linens, highlighting texture and coziness.",
+          "author": "Valeriia Miller",
+          "url": "https://images.pexels.com/photos/20801059/pexels-photo-20801059.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Drap plat lin lavé": {
+      "Écru": [
+        {
+          "id": 27439405,
+          "alt": "A serene and cozy bedroom setting with beige linens and minimalist design.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/27439405/pexels-photo-27439405.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 27553254,
+          "alt": "A calm and inviting bedroom with beige linens and simple modern design, perfect for relaxation.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/27553254/pexels-photo-27553254.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Terre": [
+        {
+          "id": 4846589,
+          "alt": "A close-up of cozy, crumpled pillows in warm brown and blue tones, creating a comforting bedroom ambiance.",
+          "author": "Rachel Claire",
+          "url": "https://images.pexels.com/photos/4846589/pexels-photo-4846589.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 28345543,
+          "alt": "A close-up of a cozy bed with brown and striped cushions, perfect for a comfortable and inviting bedroom interior.",
+          "author": "Vale Bocchi",
+          "url": "https://images.pexels.com/photos/28345543/pexels-photo-28345543.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 7445083,
+          "alt": "Stylish minimalist bedroom featuring grey bedding and framed art on wooden pallet bed.",
+          "author": "KATRIN  BOLOVTSOVA",
+          "url": "https://images.pexels.com/photos/7445083/pexels-photo-7445083.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 7445084,
+          "alt": "Minimalist bedroom setup with soft grey linen bedding and art frames on a wooden floor.",
+          "author": "KATRIN  BOLOVTSOVA",
+          "url": "https://images.pexels.com/photos/7445084/pexels-photo-7445084.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Drap housse satin de coton": {
+      "Blanc": [
+        {
+          "id": 19743644,
+          "alt": "An elegant, close-up view of white satin sheets with a texture that evokes comfort and luxury.",
+          "author": "Javier Balseiro",
+          "url": "https://images.pexels.com/photos/19743644/pexels-photo-19743644.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 31902663,
+          "alt": "A neatly folded stack of crisp white bed linens on a clean surface.",
+          "author": "juan pinales",
+          "url": "https://images.pexels.com/photos/31902663/pexels-photo-31902663.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Marine": [
+        {
+          "id": 9642302,
+          "alt": "Close-up of a hand on bedding near an open book, conveying relaxation and quiet reading time.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/9642302/pexels-photo-9642302.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 8251701,
+          "alt": "A minimalist bedroom with crumpled bedding and natural sunlight casting soft shadows.",
+          "author": "PNW Production",
+          "url": "https://images.pexels.com/photos/8251701/pexels-photo-8251701.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Housse de couette percale": {
+      "Blanc": [
+        {
+          "id": 32390799,
+          "alt": "Minimalist bedroom with white bedding and a wooden nightstand, perfect for relaxation.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/32390799/pexels-photo-32390799.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 19836802,
+          "alt": "A serene minimalist bedroom featuring white beddings and natural light through a window.",
+          "author": "Lisa Anna",
+          "url": "https://images.pexels.com/photos/19836802/pexels-photo-19836802.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Ciel": [
+        {
+          "id": 6438767,
+          "alt": "Elegant bedroom with blue accent wall, stylish furniture, and ample natural light.",
+          "author": "Max Vakhtbovych",
+          "url": "https://images.pexels.com/photos/6438767/pexels-photo-6438767.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 6947270,
+          "alt": "A beautifully decorated bedroom featuring soft blue and beige tones with classic furniture and elegant bedding.",
+          "author": "Max Vakhtbovych",
+          "url": "https://images.pexels.com/photos/6947270/pexels-photo-6947270.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sable": [
+        {
+          "id": 30761844,
+          "alt": "Stylish minimalist bedroom featuring beige bedding, modern furniture, and soft natural light.",
+          "author": "MBA Product Photography",
+          "url": "https://images.pexels.com/photos/30761844/pexels-photo-30761844.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 19836792,
+          "alt": "A serene minimalist bedroom with neutral tones, modern art, and soft bedding.",
+          "author": "Lisa Anna",
+          "url": "https://images.pexels.com/photos/19836792/pexels-photo-19836792.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Housse de couette lin lavé": {
+      "Écru": [
+        {
+          "id": 5629134,
+          "alt": "A close-up of a cozy and crumpled white bedding set with pillows in natural light.",
+          "author": "Anna Tarazevich",
+          "url": "https://images.pexels.com/photos/5629134/pexels-photo-5629134.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 8017404,
+          "alt": "Inviting unmade bed with soft white sheets and pillows in natural light.",
+          "author": "Budoy Oro",
+          "url": "https://images.pexels.com/photos/8017404/pexels-photo-8017404.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Olive": [
+        {
+          "id": 3847588,
+          "alt": "A cozy unmade bed with soft linen bedding in a minimalist bedroom setting, adding warmth and comfort.",
+          "author": "ready made",
+          "url": "https://images.pexels.com/photos/3847588/pexels-photo-3847588.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 3847546,
+          "alt": "Experience the simplicity and warmth of a cozy unmade bed in a minimalist bedroom setting.",
+          "author": "ready made",
+          "url": "https://images.pexels.com/photos/3847546/pexels-photo-3847546.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Rose poudré": [
+        {
+          "id": 19652027,
+          "alt": "A close-up of crinkled pink bed sheets highlighting soft fabric texture.",
+          "author": "Lorete M",
+          "url": "https://images.pexels.com/photos/19652027/pexels-photo-19652027.png",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 19652028,
+          "alt": "A close-up of soft, crumpled pink bedding fabric creating a cozy atmosphere.",
+          "author": "Lorete M",
+          "url": "https://images.pexels.com/photos/19652028/pexels-photo-19652028.png",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Housse de couette gaze de coton": {
+      "Blanc": [
+        {
+          "id": 6603474,
+          "alt": "Elegant minimalist bedroom showcasing a neatly arranged white bed with pillows and a side table.",
+          "author": "Hanna Pad",
+          "url": "https://images.pexels.com/photos/6603474/pexels-photo-6603474.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 26756401,
+          "alt": "A close-up of cozy and wrinkled white linen bedding, conveying comfort and relaxation.",
+          "author": "Diana ✨",
+          "url": "https://images.pexels.com/photos/26756401/pexels-photo-26756401.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sauge": [
+        {
+          "id": 38962132,
+          "alt": "Luxurious emerald green bedding with a pillow on a dark background, capturing modern elegance.",
+          "author": "Dmitriy Steinke",
+          "url": "https://images.pexels.com/photos/38962132/pexels-photo-38962132.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 28962512,
+          "alt": "Modern bedroom design with a green headboard and tropical wallpaper.",
+          "author": "Vincent Rivaud",
+          "url": "https://images.pexels.com/photos/28962512/pexels-photo-28962512.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Housse de couette satin rayé": {
+      "Blanc": [
+        {
+          "id": 29865097,
+          "alt": "Comfortable unmade bed with striped bedding and pillows, ideal for interiors or lifestyle themes.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/29865097/pexels-photo-29865097.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 10554462,
+          "alt": "Cozy minimalist bedroom with striped linens and white walls for a serene home interior.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/10554462/pexels-photo-10554462.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 6123261,
+          "alt": "A stylish bedroom showcasing striped bedding, fur accents, and natural lighting for a cozy atmosphere.",
+          "author": "Rachel Claire",
+          "url": "https://images.pexels.com/photos/6123261/pexels-photo-6123261.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 14567693,
+          "alt": "A close-up of a crumpled bed sheet with striped patterns under natural sunlight.",
+          "author": "Akva Mushka",
+          "url": "https://images.pexels.com/photos/14567693/pexels-photo-14567693.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Taie d'oreiller percale": {
+      "Blanc": [
+        {
+          "id": 3755585,
+          "alt": "A close-up view of cozy white pillows and bedding in a modern bedroom.",
+          "author": "Castorly Stock",
+          "url": "https://images.pexels.com/photos/3755585/pexels-photo-3755585.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 212269,
+          "alt": "A cozy, rumpled white bed with soft sheets and pillows in a modern bedroom setting.",
+          "author": "Jaymantri",
+          "url": "https://images.pexels.com/photos/212269/pexels-photo-212269.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sable": [
+        {
+          "id": 39180936,
+          "alt": "Warm and inviting bedroom with soft, fluffy pillows and neutral bedding for a cozy ambiance.",
+          "author": "Tanita Lupa",
+          "url": "https://images.pexels.com/photos/39180936/pexels-photo-39180936.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 7546281,
+          "alt": "Elegant beige bedroom featuring a quilted headboard, plush pillows, and minimalistic decor.",
+          "author": "Max Vakhtbovych",
+          "url": "https://images.pexels.com/photos/7546281/pexels-photo-7546281.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Sauge": [
+        {
+          "id": 4846116,
+          "alt": "A comfortable bed with stylish pillows in a minimalist bedroom atmosphere, ideal for home decor inspiration.",
+          "author": "Rachel Claire",
+          "url": "https://images.pexels.com/photos/4846116/pexels-photo-4846116.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 7055754,
+          "alt": "Relaxing bed setting with rustic wooden headboard and cushions.",
+          "author": "Pavel Danilyuk",
+          "url": "https://images.pexels.com/photos/7055754/pexels-photo-7055754.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Ciel": [
+        {
+          "id": 38651683,
+          "alt": "A cozy, serene setting featuring blue bed sheets and a pillow with dramatic lighting.",
+          "author": "Dmitriy Steinke",
+          "url": "https://images.pexels.com/photos/38651683/pexels-photo-38651683.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 36115837,
+          "alt": "Elegant hotel room with a minimalist style featuring blue accent pillows and bedding.",
+          "author": "Andrea Davis",
+          "url": "https://images.pexels.com/photos/36115837/pexels-photo-36115837.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Taie d'oreiller lin lavé": {
+      "Écru": [
+        {
+          "id": 8762876,
+          "alt": "A stack of linen cushions in warm tones against a beige background, showcasing cozy home decor.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/8762876/pexels-photo-8762876.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 16805372,
+          "alt": "Warm, inviting cushions on a wooden floor with natural light through a large window.",
+          "author": "Dmitriy Steinke",
+          "url": "https://images.pexels.com/photos/16805372/pexels-photo-16805372.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Terre": [
+        {
+          "id": 27363154,
+          "alt": "A cozy bedroom scene featuring brown pillows, a nightstand with a bowl, and skincare items.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/27363154/pexels-photo-27363154.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 26316497,
+          "alt": "A minimalist bedroom corner with dark pillows, nightstand, and ceramic sculpture.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/26316497/pexels-photo-26316497.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Olive": [
+        {
+          "id": 4108813,
+          "alt": "A close-up of hands arranging a pillow on a neatly made bed, creating a cozy atmosphere.",
+          "author": "cottonbro studio",
+          "url": "https://images.pexels.com/photos/4108813/pexels-photo-4108813.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 19596001,
+          "alt": "Simple and cozy bedroom scene featuring minimalist decor with pillows and a tree ornament.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/19596001/pexels-photo-19596001.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Taie volantée gaze de coton": {
+      "Blanc": [
+        {
+          "id": 29266004,
+          "alt": "Elegant white pillows with frills on a bed, featuring ambient lighting.",
+          "author": "Helen",
+          "url": "https://images.pexels.com/photos/29266004/pexels-photo-29266004.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 6312053,
+          "alt": "Minimalist composition of white pillows against marble and wood interior.",
+          "author": "KATRIN  BOLOVTSOVA",
+          "url": "https://images.pexels.com/photos/6312053/pexels-photo-6312053.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Rose poudré": [
+        {
+          "id": 9893931,
+          "alt": "A comfortable and inviting bed with white pillows and a crumpled duvet, perfect for a relaxing setting.",
+          "author": "Ofir Eliav",
+          "url": "https://images.pexels.com/photos/9893931/pexels-photo-9893931.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 4271665,
+          "alt": "A close-up of comfortable velvet pillows on a neatly made bed, exuding warmth and comfort.",
+          "author": "alleksana",
+          "url": "https://images.pexels.com/photos/4271665/pexels-photo-4271665.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Drap plat percale bourdon": {
+      "Blanc": [
+        {
+          "id": 9788329,
+          "alt": "Close-up of a woman's hands making a bed with white sheets and pillows, creating a tidy look.",
+          "author": "Marcus Aurelius",
+          "url": "https://images.pexels.com/photos/9788329/pexels-photo-9788329.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 28536693,
+          "alt": "A cozy, minimalist bedroom featuring soft pillows and a white bedspread.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/28536693/pexels-photo-28536693.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ],
+      "Écru": [
+        {
+          "id": 18084887,
+          "alt": "Serene bedroom setting featuring soft, white bedding and neutral pillows for a cozy feel.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/18084887/pexels-photo-18084887.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 14633639,
+          "alt": "Elegant bedroom setup featuring a beige blanket and stylish decor for a relaxing ambiance.",
+          "author": "Cameron Gawn",
+          "url": "https://images.pexels.com/photos/14633639/pexels-photo-14633639.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Chemise en lin lavé": {
+      "Écru": [
+        {
+          "id": 22441291,
+          "alt": "A beige shirt hangs from a branch in a minimalist studio setting with a white background.",
+          "author": "dayong tien",
+          "url": "https://images.pexels.com/photos/22441291/pexels-photo-22441291.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 22441297,
+          "alt": "A minimalist linen shirt displayed on a wooden hanger against a neutral background.",
+          "author": "dayong tien",
+          "url": "https://images.pexels.com/photos/22441297/pexels-photo-22441297.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Ciel": [
+        {
+          "id": 9558723,
+          "alt": "A person selects an elegant blue shirt on a hanger in a studio setting, showcasing office attire.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558723/pexels-photo-9558723.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 15944237,
+          "alt": "Professional portrait of a man in a studio setting wearing a blue shirt.",
+          "author": "Ben Khatry",
+          "url": "https://images.pexels.com/photos/15944237/pexels-photo-15944237.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 19189082,
+          "alt": "Stylish portrait of a bearded man in a linen shirt outdoors in Buenos Aires.",
+          "author": "Antonio Bracho",
+          "url": "https://images.pexels.com/photos/19189082/pexels-photo-19189082.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9617884,
+          "alt": "Close-up of a man adjusting glasses on his shirt in natural sunlight",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/9617884/pexels-photo-9617884.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Chemise popeline col officier": {
+      "Blanc": [
+        {
+          "id": 18963011,
+          "alt": "Portrait of an elegant man in a white shirt posing outdoors, exuding confidence and style.",
+          "author": "Murat IŞIK",
+          "url": "https://images.pexels.com/photos/18963011/pexels-photo-18963011.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 37825457,
+          "alt": "A confident man in white shirt and blue suspenders posing against a black background.",
+          "author": "mohamed abdelghaffar",
+          "url": "https://images.pexels.com/photos/37825457/pexels-photo-37825457.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 16970488,
+          "alt": "Elegant and stylish man smiling in a navy blue shirt against a white background.",
+          "author": "itay verchik",
+          "url": "https://images.pexels.com/photos/16970488/pexels-photo-16970488.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 33261952,
+          "alt": "Studio portrait of a confident young man in a navy blue shirt against a dark backdrop.",
+          "author": "Monirul  Islam",
+          "url": "https://images.pexels.com/photos/33261952/pexels-photo-33261952.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Surchemise en sergé": {
+      "Terre": [
+        {
+          "id": 10273401,
+          "alt": "Tattooed man in brown shirt and beanie looking down thoughtfully in a sunlit room.",
+          "author": "cottonbro studio",
+          "url": "https://images.pexels.com/photos/10273401/pexels-photo-10273401.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 11678037,
+          "alt": "A fashionable man in a plaid shirt sits thoughtfully against a brown studio backdrop.",
+          "author": "Raphael Loquellano",
+          "url": "https://images.pexels.com/photos/11678037/pexels-photo-11678037.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 7527608,
+          "alt": "Portrait of a thoughtful man in a grey shirt sitting indoors, looking away.",
+          "author": "Orione  Conceição",
+          "url": "https://images.pexels.com/photos/7527608/pexels-photo-7527608.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 17315607,
+          "alt": "Stylish man with a beard posing in a navy shirt and gray pants on outdoor stairs.",
+          "author": "Amar .M",
+          "url": "https://images.pexels.com/photos/17315607/pexels-photo-17315607.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Chemise rayée coton bio": {
+      "Ciel": [
+        {
+          "id": 38307038,
+          "alt": "Young man in a blue striped shirt gazing away in a lush outdoor setting.",
+          "author": "Udith  Babu K N",
+          "url": "https://images.pexels.com/photos/38307038/pexels-photo-38307038.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 7129369,
+          "alt": "A person standing indoors with hands folded, wearing a blue and white striped shirt.",
+          "author": "Michael Burrows",
+          "url": "https://images.pexels.com/photos/7129369/pexels-photo-7129369.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Blanc": [
+        {
+          "id": 37741913,
+          "alt": "Close-up portrait of a young man wearing a striped shirt in a studio setting.",
+          "author": "eduardo199o9",
+          "url": "https://images.pexels.com/photos/37741913/pexels-photo-37741913.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 3967060,
+          "alt": "Stylish man with tattoos and rings buttoning a striped shirt against a neutral background.",
+          "author": "Andrea Piacquadio",
+          "url": "https://images.pexels.com/photos/3967060/pexels-photo-3967060.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Robe chemise en lin": {
+      "Écru": [
+        {
+          "id": 17071210,
+          "alt": "Stylish beige summer dress with buttons and tassels displayed on a white background.",
+          "author": "Engin Akyurt",
+          "url": "https://images.pexels.com/photos/17071210/pexels-photo-17071210.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 8190290,
+          "alt": "Back view of a woman in a linen dress holding a string bag with apples, standing indoors.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/8190290/pexels-photo-8190290.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 15233095,
+          "alt": "Elegant woman in linen dress standing in sunlit room with soft natural lighting.",
+          "author": "Ilya Batorshin",
+          "url": "https://images.pexels.com/photos/12108706/pexels-photo-12108706.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 8176602,
+          "alt": "Elegant close-up of a woman wearing a textured button-up dress with soft lighting.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/8176602/pexels-photo-8176602.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 6284262,
+          "alt": "Redheaded woman prayerfully sitting in a church, wearing a black dress.",
+          "author": "cottonbro studio",
+          "url": "https://images.pexels.com/photos/6284262/pexels-photo-6284262.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 16297719,
+          "alt": "Artistic portrait of a Caucasian woman in a seductive pose, wrapped in a black dress, against a dark background.",
+          "author": "Elina Volkova",
+          "url": "https://images.pexels.com/photos/16297719/pexels-photo-16297719.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Robe portefeuille viscose": {
+      "Bordeaux": [
+        {
+          "id": 21837402,
+          "alt": "Stylish woman in a burgundy dress holds a wallet against a soft background.",
+          "author": "Muneeb Malhotra",
+          "url": "https://images.pexels.com/photos/21837402/pexels-photo-21837402.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 32498824,
+          "alt": "Stylish woman in a burgundy dress posing against a white panel outdoors, showcasing elegance and fashion",
+          "author": "pedro furtado",
+          "url": "https://images.pexels.com/photos/32498824/pexels-photo-32498824.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 7789137,
+          "alt": "Woman in rustic dress hangs laundry with a wicker basket indoors.",
+          "author": "Dmitriy Ganin",
+          "url": "https://images.pexels.com/photos/7789137/pexels-photo-7789137.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 7789138,
+          "alt": "Trendy redhead woman in a dress and boots leaning on a chair in a studio setting.",
+          "author": "Dmitriy Ganin",
+          "url": "https://images.pexels.com/photos/7789138/pexels-photo-7789138.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Robe droite en popeline": {
+      "Blanc": [
+        {
+          "id": 33787529,
+          "alt": "A stylish woman in a white summer dress poses elegantly in a rustic outdoor setting.",
+          "author": "Murat IŞIK",
+          "url": "https://images.pexels.com/photos/33787529/pexels-photo-33787529.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 17204494,
+          "alt": "Young woman in white dress leans against a tree, enjoying a summer day in a lush park.",
+          "author": "Duygu",
+          "url": "https://images.pexels.com/photos/17204494/pexels-photo-17204494.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 17498429,
+          "alt": "A woman in a navy dress leans casually against a wooden structure surrounded by foliage.",
+          "author": "Murat IŞIK",
+          "url": "https://images.pexels.com/photos/17498429/pexels-photo-17498429.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 20617809,
+          "alt": "Fashion portrait of a redhead woman in a navy blue dress leaning against a tree outdoors.",
+          "author": "Alina Chernii",
+          "url": "https://images.pexels.com/photos/20617809/pexels-photo-20617809.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Pantalon large en lin": {
+      "Sable": [
+        {
+          "id": 39457741,
+          "alt": "Back view of a woman modeling fashion apparel - white top, beige pants on clean white background.",
+          "author": "Engin Akyurt",
+          "url": "https://images.pexels.com/photos/39457741/pexels-photo-39457741.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 7705920,
+          "alt": "Close-up of a person in a minimalist white shirt and khaki pants against a green backdrop.",
+          "author": "ShotPot",
+          "url": "https://images.pexels.com/photos/7705920/pexels-photo-7705920.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 30609905,
+          "alt": "Confident woman in white shirt and black trousers poses against a gray wall.",
+          "author": "Ольга Штерн",
+          "url": "https://images.pexels.com/photos/30609905/pexels-photo-30609905.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 7205905,
+          "alt": "Fashion model posing in stylish black leather pants and boots against a white studio background.",
+          "author": "Tima Miroshnichenko",
+          "url": "https://images.pexels.com/photos/7205905/pexels-photo-7205905.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 16983209,
+          "alt": "Stylish woman in olive cargo pants and tank top posing confidently outdoors.",
+          "author": "Reign  Martinez",
+          "url": "https://images.pexels.com/photos/16983209/pexels-photo-16983209.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 20520214,
+          "alt": "Young man in black t-shirt and olive pants posing in an urban corner setting. Stylish and modern.",
+          "author": "Ali Ahmed",
+          "url": "https://images.pexels.com/photos/20520214/pexels-photo-20520214.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Chino coton stretch": {
+      "Sable": [
+        {
+          "id": 19456438,
+          "alt": "Stylish casual wear featuring a black blouse and beige pants with white sneakers.",
+          "author": "Jonathan Borba",
+          "url": "https://images.pexels.com/photos/19456438/pexels-photo-19456438.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9966508,
+          "alt": "Woman in beige pants and black top poses confidently on a tree-lined dirt road at dusk.",
+          "author": "Halil  Yetkin",
+          "url": "https://images.pexels.com/photos/9966508/pexels-photo-9966508.png",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 9464625,
+          "alt": "Elegant men's fashion showcasing shiny shoes and tailored trousers in a minimal setting.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/9464625/pexels-photo-9464625.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 15221657,
+          "alt": "Professional woman in a stylish white blouse and gray trousers fashion pose.",
+          "author": "Александр Слесарев",
+          "url": "https://images.pexels.com/photos/15221657/pexels-photo-15221657.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 17315606,
+          "alt": "Confident man in navy shirt and gray pants leaning on a stone railing",
+          "author": "Amar .M",
+          "url": "https://images.pexels.com/photos/17315606/pexels-photo-17315606.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Pantalon à pinces en laine froide": {
+      "Anthracite": [
+        {
+          "id": 34698553,
+          "alt": "Stylish woman in white blouse and grey trousers standing confidently outdoors.",
+          "author": "Murat IŞIK",
+          "url": "https://images.pexels.com/photos/34698553/pexels-photo-34698553.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 30609905,
+          "alt": "Confident woman in white shirt and black trousers poses against a gray wall.",
+          "author": "Ольга Штерн",
+          "url": "https://images.pexels.com/photos/30609905/pexels-photo-30609905.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 33041362,
+          "alt": "Stylish brown trousers paired with boots, standing against a textured stone wall.",
+          "author": "Eyimofe  Odunusi",
+          "url": "https://images.pexels.com/photos/33041362/pexels-photo-33041362.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 32111854,
+          "alt": "Stylish brown shoe paired with beige trousers against a green textured surface outdoors.",
+          "author": "Kaybee Photography",
+          "url": "https://images.pexels.com/photos/32111854/pexels-photo-32111854.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Jupe-culotte en lin": {
+      "Écru": [
+        {
+          "id": 9823810,
+          "alt": "Elegant woman in beige trench coat and trousers poses indoors. Natural light enhances the stylish setting.",
+          "author": "Daniel Ursache",
+          "url": "https://images.pexels.com/photos/9823810/pexels-photo-9823810.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 19456438,
+          "alt": "Stylish casual wear featuring a black blouse and beige pants with white sneakers.",
+          "author": "Jonathan Borba",
+          "url": "https://images.pexels.com/photos/19456438/pexels-photo-19456438.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 39457749,
+          "alt": "Fashionable brown trousers featured in a professional studio setting.",
+          "author": "Engin Akyurt",
+          "url": "https://images.pexels.com/photos/39457749/pexels-photo-39457749.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 25440239,
+          "alt": "A fashionable woman sits confidently on stairs, showcasing summer style with brown trousers and white sneakers.",
+          "author": "Eren Hızlı",
+          "url": "https://images.pexels.com/photos/25440239/pexels-photo-25440239.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt coton bio 220 g/m²": {
+      "Blanc": [
+        {
+          "id": 7597490,
+          "alt": "Portrait of a confident man smiling in a white t-shirt on a plain background.",
+          "author": "Alexandru Molnar",
+          "url": "https://images.pexels.com/photos/7597490/pexels-photo-7597490.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 20669538,
+          "alt": "Clean white t-shirt on hanger held by human hand against a white studio background.",
+          "author": "Dmitriy Steinke",
+          "url": "https://images.pexels.com/photos/20669538/pexels-photo-20669538.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 8532616,
+          "alt": "Minimalist image of a black t-shirt on a hanger with dramatic shadows on a white wall.",
+          "author": "Hanna Pad",
+          "url": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 18843501,
+          "alt": "A stylish portrait of a man wearing a black t-shirt and necklace on a white background.",
+          "author": "Abdullah Alsaibaie",
+          "url": "https://images.pexels.com/photos/18843501/pexels-photo-18843501.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Écru": [
+        {
+          "id": 6786616,
+          "alt": "Minimalist photo of a woman in a white t-shirt with a beige background, perfect for fashion or lifestyle themes.",
+          "author": "Artem Podrez",
+          "url": "https://images.pexels.com/photos/6786616/pexels-photo-6786616.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 37704838,
+          "alt": "White cotton t-shirt in a minimalist flat lay on wooden floor with natural light and shadows.",
+          "author": "Daniel & Hannah Snipes",
+          "url": "https://images.pexels.com/photos/37704838/pexels-photo-37704838.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 23285867,
+          "alt": "Portrait of a smiling man in a navy T-shirt against a white background.",
+          "author": "Maxwell Araujo",
+          "url": "https://images.pexels.com/photos/23285867/pexels-photo-23285867.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt col V coton pima": {
+      "Blanc": [
+        {
+          "id": 8217461,
+          "alt": "A confident man with a beard poses in a white t-shirt against a white background, exuding modern simplicity.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/8217461/pexels-photo-8217461.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9558777,
+          "alt": "Young woman in a white tee and cap posing confidently in a studio setting for a casual fashion look.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558777/pexels-photo-9558777.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 9379454,
+          "alt": "Man in grey t-shirt and cap standing pensively in a park during sunset.",
+          "author": "Jose Raul",
+          "url": "https://images.pexels.com/photos/9379454/pexels-photo-9379454.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 35363453,
+          "alt": "A studio portrait of a young man in a gray t-shirt, exuding confidence and style.",
+          "author": "Moh DIKKO Photography",
+          "url": "https://images.pexels.com/photos/35363453/pexels-photo-35363453.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt oversize heavy": {
+      "Sable": [
+        {
+          "id": 5902887,
+          "alt": "A young man in a beige t-shirt poses casually in a doorway, creating a relaxed and natural atmosphere.",
+          "author": "cottonbro studio",
+          "url": "https://images.pexels.com/photos/5902887/pexels-photo-5902887.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 9558684,
+          "alt": "Portrait of a woman with curly hair wearing a casual t-shirt, smiling softly against a neutral background.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558684/pexels-photo-9558684.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 9558588,
+          "alt": "Portrait of a young woman in a black oversized t-shirt against a white background.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558588/pexels-photo-9558588.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9558567,
+          "alt": "Front view of woman wearing black t-shirt with copy space on white background.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558567/pexels-photo-9558567.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt manches longues": {
+      "Écru": [
+        {
+          "id": 37704838,
+          "alt": "White cotton t-shirt in a minimalist flat lay on wooden floor with natural light and shadows.",
+          "author": "Daniel & Hannah Snipes",
+          "url": "https://images.pexels.com/photos/37704838/pexels-photo-37704838.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 35136156,
+          "alt": "Young man with curly hair wearing casual t-shirt posing against a dark background.",
+          "author": "Oliver Matos",
+          "url": "https://images.pexels.com/photos/35136156/pexels-photo-35136156.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt lin et coton": {
+      "Écru": [
+        {
+          "id": 37704844,
+          "alt": "White cotton t-shirt laid on a wooden floor, captured in warm natural light, highlighting fabric texture.",
+          "author": "Daniel & Hannah Snipes",
+          "url": "https://images.pexels.com/photos/37704844/pexels-photo-37704844.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Sauge": [
+        {
+          "id": 9594692,
+          "alt": "A simple green t-shirt with a tag hanging on a wooden hanger against a neutral background.",
+          "author": "Ron Lach",
+          "url": "https://images.pexels.com/photos/9594692/pexels-photo-9594692.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 31041770,
+          "alt": "Cheerful young woman in green t-shirt smiling with hands in hair against white background.",
+          "author": "Dmitriy Steinke",
+          "url": "https://images.pexels.com/photos/31041770/pexels-photo-31041770.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 10204122,
+          "alt": "A fashion portrait of a man with long hair wearing a brown t-shirt.",
+          "author": "cottonbro studio",
+          "url": "https://images.pexels.com/photos/10204122/pexels-photo-10204122.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 11790168,
+          "alt": "A woman wearing a brown t-shirt looks over her shoulder by a canal in Saint Petersburg.",
+          "author": "ALEKSEY DANILOV",
+          "url": "https://images.pexels.com/photos/11790168/pexels-photo-11790168.png",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Débardeur côtelé": {
+      "Blanc": [
+        {
+          "id": 38216749,
+          "alt": "Portrait of a confident young man in a white tank top against a neutral background.",
+          "author": "OTB  frames",
+          "url": "https://images.pexels.com/photos/38216749/pexels-photo-38216749.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 31468892,
+          "alt": "Confident young man in white tank top posing against black background.",
+          "author": "Liliana Crijavetchi",
+          "url": "https://images.pexels.com/photos/31468892/pexels-photo-31468892.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 24362272,
+          "alt": "Portrait of an Asian woman in a black tank top, studio setting with a gray background.",
+          "author": "Sydney Sang",
+          "url": "https://images.pexels.com/photos/24362272/pexels-photo-24362272.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 26263279,
+          "alt": "Portrait of a woman in a black tank top against a gray background, showcasing elegance and style.",
+          "author": "Marcus Queiroga Silva",
+          "url": "https://images.pexels.com/photos/26263279/pexels-photo-26263279.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt imprimé Palmeraie": {
+      "Écru": [
+        {
+          "id": 36810868,
+          "alt": "Man in beige tee with graffiti background, urban style fashion.",
+          "author": "Washington  Acosta",
+          "url": "https://images.pexels.com/photos/36810868/pexels-photo-36810868.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Sable": [
+        {
+          "id": 18563162,
+          "alt": "Casual portrait of a man wearing a 'MISUNDERSTOOD' t-shirt on a beige background.",
+          "author": "Jamaal Hutchinson",
+          "url": "https://images.pexels.com/photos/18563162/pexels-photo-18563162.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt imprimé Conakry": {
+      "Blanc": [
+        {
+          "id": 9558752,
+          "alt": "Confident woman wearing a plain white t-shirt in a studio setting with ample copy space.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558752/pexels-photo-9558752.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 10159280,
+          "alt": "A cheerful woman in a white T-shirt poses casually in a studio setting.",
+          "author": "ROMAN ODINTSOV",
+          "url": "https://images.pexels.com/photos/10159280/pexels-photo-10159280.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 28446958,
+          "alt": "A young man in a white t-shirt sitting with arms crossed against a grey backdrop.",
+          "author": "Augusto Carneiro Junior",
+          "url": "https://images.pexels.com/photos/28446958/pexels-photo-28446958.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt brodé poitrine": {
+      "Blanc": [
+        {
+          "id": 8217365,
+          "alt": "Smiling couple in white t-shirts posing indoors in a bright studio setting.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/8217365/pexels-photo-8217365.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 8217364,
+          "alt": "Woman with afro hair in casual white t-shirt standing in studio with colored background.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/8217364/pexels-photo-8217364.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Écru": [
+        {
+          "id": 1304643,
+          "alt": "Side view portrait of a young man with curly hair wearing a white t-shirt against a neutral background.",
+          "author": "Sebastiaan Stam",
+          "url": "https://images.pexels.com/photos/1304643/pexels-photo-1304643.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 8217299,
+          "alt": "Two young adults posing in casual blank t-shirts, holding a relaxed and confident stance.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/8217299/pexels-photo-8217299.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt rayé marin": {
+      "Marine": [
+        {
+          "id": 23669188,
+          "alt": "Stylish woman with curly hair poses in a navy striped dress against a white background.",
+          "author": "Andrea Musto",
+          "url": "https://images.pexels.com/photos/23669188/pexels-photo-23669188.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 2876791,
+          "alt": "Casually dressed young woman in striped shirt sitting outdoors on a sunny day.",
+          "author": "João Paulo de Souza Oliveira",
+          "url": "https://images.pexels.com/photos/2876791/pexels-photo-2876791.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Bordeaux": [
+        {
+          "id": 22748816,
+          "alt": "A young man in a striped t-shirt smiling while sitting against a vibrant mural background.",
+          "author": "Adil Asainov",
+          "url": "https://images.pexels.com/photos/22748816/pexels-photo-22748816.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 17168096,
+          "alt": "Portrait of a man in striped polo shirt and ivy cap outdoors.",
+          "author": "Bruce Taylor",
+          "url": "https://images.pexels.com/photos/17168096/pexels-photo-17168096.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "T-shirt imprimé Atelier": {
+      "Anthracite": [
+        {
+          "id": 6311639,
+          "alt": "A confident young man in a gray t-shirt poses against a plain white background.",
+          "author": "Monstera Production",
+          "url": "https://images.pexels.com/photos/6311639/pexels-photo-6311639.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 15875960,
+          "alt": "A man sitting cross-legged wearing a white t-shirt against a gray background.",
+          "author": "Wallace  Castro",
+          "url": "https://images.pexels.com/photos/15875960/pexels-photo-15875960.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Sable": [
+        {
+          "id": 9558577,
+          "alt": "Portrait of a young man in a black t-shirt looking to the side, set against a neutral background.",
+          "author": "MART  PRODUCTION",
+          "url": "https://images.pexels.com/photos/9558577/pexels-photo-9558577.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Basket cuir pleine fleur": {
+      "Blanc": [
+        {
+          "id": 7193626,
+          "alt": "Close-up of white sneakers on a light wood floor with empty space.",
+          "author": "https://kaboompics.com/",
+          "url": "https://images.pexels.com/photos/7193626/pexels-photo-7193626.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 27204251,
+          "alt": "Minimalist white sneakers hanging against a soft blue backdrop for fashion product focus.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/27204251/pexels-photo-27204251.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 9195765,
+          "alt": "A hand holding stylish black sneakers against a minimal white background.",
+          "author": "Adrian Regeci",
+          "url": "https://images.pexels.com/photos/9195765/pexels-photo-9195765.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9666619,
+          "alt": "Minimalist image of a levitating black sneaker above a hand on white background.",
+          "author": "Adrian Regeci",
+          "url": "https://images.pexels.com/photos/9666619/pexels-photo-9666619.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Basket toile bio": {
+      "Écru": [
+        {
+          "id": 12049740,
+          "alt": "Top view of casual beige sneakers on stone pavement, ideal for lifestyle and fashion themes.",
+          "author": "Татьяна Чернышова🍒",
+          "url": "https://images.pexels.com/photos/12049740/pexels-photo-12049740.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 4075413,
+          "alt": "White high-top sneakers illuminated by natural sunlight, creating a fashion-forward look.",
+          "author": "Rachel Nelson",
+          "url": "https://images.pexels.com/photos/4075413/pexels-photo-4075413.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 20755674,
+          "alt": "Stylish navy blue leather sneaker suspended against a neutral wall.",
+          "author": "saeed karimi",
+          "url": "https://images.pexels.com/photos/20755674/pexels-photo-20755674.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 19577865,
+          "alt": "Stylish navy blue sneakers with white soles and laces placed on a textured dark backdrop.",
+          "author": "ALOK DAS",
+          "url": "https://images.pexels.com/photos/19577865/pexels-photo-19577865.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Olive": [
+        {
+          "id": 20216689,
+          "alt": "Detailed close-up of stylish white canvas sneakers with gum soles on a wooden surface, perfect for fashion shoots.",
+          "author": "pipop kunachon",
+          "url": "https://images.pexels.com/photos/20216689/pexels-photo-20216689.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 11513443,
+          "alt": "Pair of white sneakers against a textured olive green wall in a minimalist setting, perfect for fashion or lifestyle themes.",
+          "author": "Clarisse Vidal",
+          "url": "https://images.pexels.com/photos/11513443/pexels-photo-11513443.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Basket running daim": {
+      "Sable": [
+        {
+          "id": 10877548,
+          "alt": "Modern white sneakers paired with cozy casual outfit on neutral background.",
+          "author": "Елена Вотинцева",
+          "url": "https://images.pexels.com/photos/10877548/pexels-photo-10877548.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 12049740,
+          "alt": "Top view of casual beige sneakers on stone pavement, ideal for lifestyle and fashion themes.",
+          "author": "Татьяна Чернышова🍒",
+          "url": "https://images.pexels.com/photos/12049740/pexels-photo-12049740.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Anthracite": [
+        {
+          "id": 7916058,
+          "alt": "Vertical shot of gray sneakers with laces on a rustic wall background.",
+          "author": "Animesh Srivastava",
+          "url": "https://images.pexels.com/photos/7916058/pexels-photo-7916058.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 8373046,
+          "alt": "A hand is holding a pair of stylish gray sneakers with a contrasting sole outdoors.",
+          "author": "Sneep Crew",
+          "url": "https://images.pexels.com/photos/8373046/pexels-photo-8373046.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Basket montante cuir": {
+      "Blanc": [
+        {
+          "id": 8147433,
+          "alt": "Young adult tying white high-top sneakers on a minimalist background.",
+          "author": "https://kaboompics.com/",
+          "url": "https://images.pexels.com/photos/8147433/pexels-photo-8147433.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 5601,
+          "alt": "Stylish white high-top sneakers captured outdoors in a spring setting.",
+          "author": "Karolina Grabowska www.kaboompics.com",
+          "url": "https://images.pexels.com/photos/5601/fashion-shoes-white-snickers.jpg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 26443421,
+          "alt": "Stylish brown high-top sneakers with white laces on a white sheet background.",
+          "author": "Ana Vieira",
+          "url": "https://images.pexels.com/photos/26443421/pexels-photo-26443421.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 26542730,
+          "alt": "Stylish brown high-top sneakers placed on soft white sheets. Perfect for fashion and lifestyle imagery.",
+          "author": "Ana Vieira",
+          "url": "https://images.pexels.com/photos/26542730/pexels-photo-26542730.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Sandale à brides cuir": {
+      "Terre": [
+        {
+          "id": 26965808,
+          "alt": "Elegant close-up of brown sandals on female model against a plain background.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26965808/pexels-photo-26965808.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 12896849,
+          "alt": "Close-up of stylish brown leather sandals with silver buckles on wooden floor.",
+          "author": "Denis Liendo ✅",
+          "url": "https://images.pexels.com/photos/12896849/pexels-photo-12896849.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 31129840,
+          "alt": "Elegant black sandals with straps on a soft white background, stylish fashion",
+          "author": "Eugenia Remark",
+          "url": "https://images.pexels.com/photos/31129840/pexels-photo-31129840.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 26965812,
+          "alt": "Studio shot of stylish black leather sandals with a clean white background.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26965812/pexels-photo-26965812.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Sable": [
+        {
+          "id": 26965815,
+          "alt": "Elegant beige sandals showcased on a woman's legs against a white background in a studio setting.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26965815/pexels-photo-26965815.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 5618939,
+          "alt": "Beige strappy sandals elegantly hanging on branches in a lush outdoor setting.",
+          "author": "James Ampong Quilario",
+          "url": "https://images.pexels.com/photos/5618939/pexels-photo-5618939.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Mule cuir tressé": {
+      "Sable": [
+        {
+          "id": 26925243,
+          "alt": "Top view of elegant block heel sandals in tan, pink, beige, and black with leather texture.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26925243/pexels-photo-26925243.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 27100549,
+          "alt": "Close-up of stylish brown sandals on female legs in studio setting.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/27100549/pexels-photo-27100549.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Noir": [
+        {
+          "id": 6045019,
+          "alt": "Elegant black mule shoe displayed on a brightly lit panel against white brick wall.",
+          "author": "Skylar Kang",
+          "url": "https://images.pexels.com/photos/6045019/pexels-photo-6045019.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Sandale plate minimaliste": {
+      "Noir": [
+        {
+          "id": 31129836,
+          "alt": "Pair of black leather sandals with strap detail on light fabric background.",
+          "author": "Eugenia Remark",
+          "url": "https://images.pexels.com/photos/31129836/pexels-photo-31129836.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 26965812,
+          "alt": "Studio shot of stylish black leather sandals with a clean white background.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26965812/pexels-photo-26965812.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Écru": [
+        {
+          "id": 26965818,
+          "alt": "Stylish leather sandals in black, brown, and cream on a white background, top view.",
+          "author": "José Martin Segura Benites",
+          "url": "https://images.pexels.com/photos/26965818/pexels-photo-26965818.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 9267599,
+          "alt": "A minimalist flat lay of beige sandals and a matching purse on a textured background.",
+          "author": "Denys Mikhalevych",
+          "url": "https://images.pexels.com/photos/9267599/pexels-photo-9267599.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Derby cuir lisse": {
+      "Noir": [
+        {
+          "id": 37465528,
+          "alt": "Pair of stylish black formal shoes displayed on a minimalist grey background, perfect for business attire.",
+          "author": "Lee Hanson",
+          "url": "https://images.pexels.com/photos/37465528/pexels-photo-37465528.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 27691953,
+          "alt": "Close-up of a man tying laces on black leather shoes indoors, symbolizing style and sophistication.",
+          "author": "Anastasia Nagibina",
+          "url": "https://images.pexels.com/photos/27691953/pexels-photo-27691953.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 26587826,
+          "alt": "Stylish brown leather men's shoes on a green surface, showcasing elegant design and quality.",
+          "author": "Rohit Sharma",
+          "url": "https://images.pexels.com/photos/26587826/pexels-photo-26587826.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 15059775,
+          "alt": "Stylish pair of brown leather brogue shoes on a clean white background.",
+          "author": "Collab Media",
+          "url": "https://images.pexels.com/photos/15059775/pexels-photo-15059775.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Mocassin daim": {
+      "Sable": [
+        {
+          "id": 31935097,
+          "alt": "Elegant suede loafers in various colors displayed on white boxes from above.",
+          "author": "Mr Abrar visuals",
+          "url": "https://images.pexels.com/photos/31935097/pexels-photo-31935097.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 267301,
+          "alt": "Fashionable leather loafers in various colors displayed on a wooden railing outdoors.",
+          "author": "Alp Yıldızlar",
+          "url": "https://images.pexels.com/photos/15127348/pexels-photo-15127348.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Marine": [
+        {
+          "id": 15059773,
+          "alt": "Beautiful close-up of stylish blue suede slip-on shoes with a pristine white background, ideal for fashion displays.",
+          "author": "Collab Media",
+          "url": "https://images.pexels.com/photos/15059773/pexels-photo-15059773.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 15694921,
+          "alt": "Close-up of legs wearing blue loafers by a window, showcasing casual fashion.",
+          "author": "Alp Yıldızlar",
+          "url": "https://images.pexels.com/photos/15694921/pexels-photo-15694921.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Richelieu bout droit": {
+      "Noir": [
+        {
+          "id": 15557045,
+          "alt": "A pair of elegant black leather shoes displayed against a white background.",
+          "author": "Ali Pli",
+          "url": "https://images.pexels.com/photos/15557045/pexels-photo-15557045.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 15557044,
+          "alt": "Elegant black leather men's dress shoes photographed on a white background.",
+          "author": "Ali Pli",
+          "url": "https://images.pexels.com/photos/15557044/pexels-photo-15557044.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Bordeaux": [
+        {
+          "id": 11911858,
+          "alt": "Close-up of luxury leather shoes arranged neatly in a store for sale.",
+          "author": "Mathias Reding",
+          "url": "https://images.pexels.com/photos/11911858/pexels-photo-11911858.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 6765524,
+          "alt": "Classic brown leather brogue shoes with detailed perforations on a stylish display.",
+          "author": "Tima Miroshnichenko",
+          "url": "https://images.pexels.com/photos/6765524/pexels-photo-6765524.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Bottine chelsea cuir": {
+      "Noir": [
+        {
+          "id": 2830912,
+          "alt": "Close-up of fashionable black leather boots worn outdoors on a pavement, showcasing style.",
+          "author": "Giày Da Tino",
+          "url": "https://images.pexels.com/photos/2830912/pexels-photo-2830912.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 35654956,
+          "alt": "High-quality black leather boots captured in natural light on a modern, minimalist surface.",
+          "author": "Daniel & Hannah Snipes",
+          "url": "https://images.pexels.com/photos/35654956/pexels-photo-35654956.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ],
+      "Terre": [
+        {
+          "id": 16195409,
+          "alt": "Close-up of brown leather boots standing on a textured stone path, showcasing rugged style.",
+          "author": "Erik Mclean",
+          "url": "https://images.pexels.com/photos/16195409/pexels-photo-16195409.jpeg",
+          "w": 1200,
+          "h": 1500
+        },
+        {
+          "id": 10939830,
+          "alt": "Close-up of brown leather boots on a textured dark surface. Urban and rugged feel.",
+          "author": "Nandu Vasudevan",
+          "url": "https://images.pexels.com/photos/10939830/pexels-photo-10939830.jpeg",
+          "w": 1200,
+          "h": 1500
+        }
+      ]
+    },
+    "Couvre-matelas matelassé coton": {
+      "Blanc": [
+        {
+          "id": 7614617,
+          "alt": "Spacious modern bedroom with a clean mattress and large windows for natural light.",
+          "author": "Max Vakhtbovych",
+          "url": "https://images.pexels.com/photos/7614617/pexels-photo-7614617.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 8089076,
+          "alt": "Contemporary minimalist bedroom featuring a white mattress and sleek wardrobe under soft lighting.",
+          "author": "Max Vakhtbovych",
+          "url": "https://images.pexels.com/photos/8089076/pexels-photo-8089076.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Protège-matelas imperméable": {
+      "Blanc": [
+        {
+          "id": 14510648,
+          "alt": "Close-up image of crinkled white bed sheets showcasing texture and pattern.",
+          "author": "Katarzyna Boehm",
+          "url": "https://images.pexels.com/photos/14510648/pexels-photo-14510648.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 28513848,
+          "alt": "Crinkled white bed sheets on a mattress bathed in warm morning light, suggesting comfort and relaxation.",
+          "author": "Diana ✨",
+          "url": "https://images.pexels.com/photos/28513848/pexels-photo-28513848.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    },
+    "Couvre-matelas lin lavé": {
+      "Écru": [
+        {
+          "id": 28536695,
+          "alt": "Cozy and inviting minimalist white bedroom with crumpled bedding.",
+          "author": "Aljona Ovtšinnikova",
+          "url": "https://images.pexels.com/photos/28536695/pexels-photo-28536695.jpeg",
+          "w": 1200,
+          "h": 1200
+        },
+        {
+          "id": 3682238,
+          "alt": "A serene and stylish bedroom featuring a comfortable bed with clean white bedding and a side table with decor.",
+          "author": "Castorly Stock",
+          "url": "https://images.pexels.com/photos/3682238/pexels-photo-3682238.jpeg",
+          "w": 1200,
+          "h": 1200
+        }
+      ]
+    }
+  }
+}
